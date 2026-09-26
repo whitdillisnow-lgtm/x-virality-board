@@ -1,0 +1,37 @@
+name: restore-data
+on:
+  push:
+    paths:
+      - ".github/workflows/restore-data.yml"
+  workflow_dispatch:
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore data.json from last good commit
+        run: |
+          set -euo pipefail
+          git checkout 76e57c08cf3cbe515fd3ce1cc5697494f3c878b8 -- data.json
+          python3 - <<'PY'
+          import json
+          d=json.load(open("data.json"))
+          assert d.get("brand_handle")=="@kathryndilli"
+          assert d.get("brand_title")=="Calmly Crashing"
+          assert d.get("date")=="2026-09-26"
+          assert d.get("hits_count")==2
+          print("restored_ok", d["date"], d["hits_count"], d["brand_handle"], d["updated"])
+          PY
+          git config user.name "x-virality-board-sync"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "data.json already matches good commit"
+            exit 0
+          fi
+          git commit -m "Restore data.json Daily board Pages sync 2026-09-26"
+          git push
