@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="night">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#050505" />
+<title>Calmly Crashing · X Virality Score</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="./board.css" />
+</head>
+<body>
+<div class="grok-trail" aria-hidden="true"></div>
+<div class="grok-ambient" aria-hidden="true" title="Grok Bot">
+  <svg viewBox="0 0 64 64" role="img">
+    <defs>
+      <linearGradient id="gb" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#20d9ff"/>
+        <stop offset="100%" stop-color="#b8ff3d"/>
+      </linearGradient>
+    </defs>
+    <rect x="10" y="16" width="44" height="36" rx="12" fill="#0b0d0e" stroke="url(#gb)" stroke-width="2"/>
+    <circle class="antenna" cx="32" cy="10" r="3.2" fill="#20d9ff"/>
+    <path class="antenna" d="M32 13 V18" stroke="#20d9ff" stroke-width="2"/>
+    <circle class="eye" cx="24" cy="32" r="4" fill="#20d9ff"/>
+    <circle class="eye" cx="40" cy="32" r="4" fill="#20d9ff"/>
+    <path d="M24 42 Q32 48 40 42" fill="none" stroke="#b8ff3d" stroke-width="2" stroke-linecap="round"/>
+    <rect x="18" y="52" width="8" height="6" rx="2" fill="#20d9ff" opacity=".7"/>
+    <rect x="38" y="52" width="8" height="6" rx="2" fill="#20d9ff" opacity=".7"/>
+  </svg>
+</div>
+<div class="wrap">
+  <header class="site-header">
+    <div class="brand-lockup">
+      <div class="x-logo" aria-label="X"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
+      <div>
+        <div class="eyebrow">public free experimental tool</div>
+        <h1>Calmly Crashing <span class="handle" id="brand-handle"></span></h1>
+        <div class="powered">free public desk for creators</div>
+      </div>
+    </div>
+    <div class="header-meta">
+      <div class="header-actions">
+        <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle day and night theme"><span class="ico" id="theme-ico">☾</span><span id="theme-label">Night</span></button>
+        <div class="live" title="Live signal"><span class="live-dot" aria-hidden="true"></span>LIVE SIGNAL</div>
+      </div>
+      <div id="meta">loading data…</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-label="X Score and day target">
+      <article class="panel score-panel">
+        <div class="score-copy">
+          <div class="panel-label"><strong>01 /</strong> performance signal</div>
+          <div class="score-title-row">
+            <div class="x-mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
+            <h2>X Score</h2>
+          </div>
+          <p>Daily momentum from watchlist hit volume and total view velocity.</p>
+        </div>
+        <div class="score-ring" id="score-ring"><div class="score-inner"><div class="score-number" id="x-score" data-count="0">0</div><div class="score-of">/ 100</div><div class="trend flat" id="score-trend"><span class="trend-arrow">→</span><span>calculating</span></div></div></div>
+      </article>
+      <article class="panel target-panel">
+        <div class="target-head"><div><div class="panel-label"><strong>02 /</strong> daily objective</div><div class="target-title">Day Target</div></div><div class="target-state pending" id="target-state">◷ NOT DONE</div></div>
+        <div class="target-list">
+          <div><div class="target-row-head"><span>Watchlist hits</span><b id="hits-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="hits-progress"></div></div></div>
+          <div><div class="target-row-head"><span>Total views</span><b id="views-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="views-progress"></div></div></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="stats" id="stats" aria-label="Daily metrics"></section>
+
+    <section class="panel chart-panel">
+      <div class="chart-head"><div><div class="panel-label"><strong>03 /</strong> velocity map</div><h2>Top hit views</h2></div><div class="chart-scale" id="chart-scale">top watchlist signals</div></div>
+      <svg id="sparkline" viewBox="0 0 1000 120" preserveAspectRatio="none" role="img" aria-label="Mini bar chart of top hit views"></svg>
+      <div class="spark-labels" id="spark-labels"></div>
+    </section>
+
+    <div class="section-head"><div><div class="section-index">04 / leaderboards</div><h2>Week · Month</h2></div><div class="section-note" id="lb-note">from data.json + digest days</div></div>
+    <section class="boards" aria-label="Week and month leaderboards">
+      <article class="panel board-panel"><div class="panel-label"><strong>W /</strong> rolling week</div><h3 id="week-title">Week</h3><div id="week-board"></div></article>
+      <article class="panel board-panel"><div class="panel-label"><strong>M /</strong> calendar month</div><h3 id="month-title">Month</h3><div id="month-board"></div></article>
+    </section>
+
+    <div class="section-head"><div><div class="section-index">05 / watchlist</div><h2>Top hits</h2></div><div class="section-note">full drafts · copy ready · per-hit target status</div></div>
+    <section class="hits-col" id="hits"></section>
+
+    <div class="section-head"><div><div class="section-index">06 / pattern layer</div><h2>Pattern brief</h2></div><div class="section-note">keywords + recurring hooks and structures</div></div>
+    <section class="tags" id="patterns"></section>
+
+    <div class="section-head"><div><div class="section-index">07 / outside radar</div><h2>AI virals · last 48h</h2></div><div class="section-note" id="viral-count">20 outsider signals</div></div>
+    <section class="grid" id="virals"></section>
+    <div class="narrative" id="virals-narrative" hidden></div>
+
+    <div class="section-head"><div><div class="section-index">08 / below floor</div><h2>No hits ≥5k</h2></div><div class="section-note">handles + likely reasons</div></div>
+    <section class="nohits-block" id="nohits" aria-label="Accounts without 5k hits"></section>
+  </main>
+
+  <footer>
+    <div class="privacy">
+      <h3>Privacy / Experimental</h3>
+      <ul>
+        <li>Grok Bot X Virality Score is a free public experimental tool for creators, not a company product.</li>
+        <li>No personal data is collected from visitors. No accounts, no analytics IDs, no email capture.</li>
+        <li>No cookies for tracking. Theme preference may stay in localStorage on your device only.</li>
+        <li>X content is scraped read-only via the operator session on the box. Visitor accounts are never used or requested.</li>
+        <li>Not affiliated with X Corp / Twitter, Inc. or any of their products.</li>
+        <li>Third-party posts remain the property of their authors. This board only mirrors public signals for research.</li>
+        <li>Provided as-is, with no warranty of accuracy, uptime, or fitness for any purpose.</li>
+      </ul>
+    </div>
+    <div class="footer-row">
+      <span>Read-only browser signal desk · refreshes with each daily digest · powered by Grok Bot</span>
+      <span class="footer-mark">Grok Bot X Virality Score</span>
+    </div>
+  </footer>
+</div>
+<script src="./board.js"></script>
+</body>
+</html>
