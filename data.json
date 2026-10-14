@@ -1,424 +1,391 @@
 {
-  "title": "Daily X narrative digest — 2026-10-13",
-  "date": "2026-10-13",
+  "title": "Daily X narrative digest — 2026-10-14",
+  "date": "2026-10-14",
   "timezone": "America/Phoenix",
-  "updated": "2026-10-13T11:10:00-07:00",
+  "updated": "2026-10-14T10:59:22-07:00",
   "brand_title": "Calmly Crashing",
   "brand_handle": "@kathryndilli",
   "hits": [
     {
-      "display_name": "Tim Ferriss",
-      "name": "Tim Ferriss",
-      "handle": "@tferriss",
-      "status_url": "https://x.com/tferriss/status/2109987399488933924",
-      "url": "https://x.com/tferriss/status/2109987399488933924",
-      "posted_at": "5:39 AM MT",
-      "views": 48400,
-      "views_label": "48400",
-      "likes": 434,
-      "reposts": 36,
-      "replies": 28,
-      "bookmarks": 207,
-      "media_note": "media/clip attached; AI topic — soften to analog keep-by-hand for brand",
-      "highlight": true,
-      "text": "Be very careful what you outsource to AI.",
-      "full_text": "Be very careful what you outsource to AI.",
-      "hook": "tferriss: be careful what you outsource to AI (soften to what you keep by hand; open replies)",
-      "draft_en": "Some things I won't hand off.\n\nThe notebook. The pen. The first pass of a thought before I tidy it up.\n\nTools can help later. The first honest line still has to come from me.",
-      "video_tip": "12 seconds, desk only. Hand sets a laptop aside, picks up a fountain pen and a cream notebook, writes the first line of a thought. Last frame text: 'First pass, by hand.'"
-    },
-    {
       "display_name": "Sahil Bloom",
       "name": "Sahil Bloom",
       "handle": "@SahilBloom",
-      "status_url": "https://x.com/SahilBloom/status/2110024848005029892",
-      "url": "https://x.com/SahilBloom/status/2110024848005029892",
-      "posted_at": "8:08 AM MT",
-      "views": 42239,
-      "views_label": "42239",
-      "likes": 1587,
-      "reposts": 91,
-      "replies": 114,
-      "bookmarks": 183,
+      "status_url": "https://x.com/SahilBloom/status/2110352029495316639",
+      "url": "https://x.com/SahilBloom/status/2110352029495316639",
+      "posted_at": "5:48 AM MT",
+      "views": 47445,
+      "views_label": "47445",
+      "likes": 1668,
+      "reposts": 135,
+      "replies": 100,
+      "bookmarks": 343,
       "media_note": "text-only; open replies",
       "highlight": true,
-      "text": "The older I get, the more I realize that the single greatest challenge for any ambitious person is eliminating the guilt associated with free time and rest.",
-      "full_text": "The older I get, the more I realize that the single greatest challenge for any ambitious person is eliminating the guilt associated with free time and rest.",
-      "hook": "SahilBloom: greatest challenge is dropping guilt about free time and rest (best brand fit today)",
-      "draft_en": "I used to treat free time like something I had to earn.\n\nFinish the list, then sit down. Clear the inbox, then rest. The list never ends, so the sitting never starts.\n\nI'm trying something smaller: put the pen down on purpose. Ten quiet minutes. No apology attached.",
-      "video_tip": "15 seconds, overhead on textured cream paper, window light, room sound only. A phone is placed face-down beside a closed notebook. A hand uncaps a fountain pen, opens to a blank page, writes nothing for a few beats, then one short line. No face. Last frame text: 'Ten quiet minutes.'"
+      "text": "Underrated life advice: It’s perfectly ok to live a life that looks confusing to others. Wake up early. Do hard things. Focus deeply. Eat real foods. Go on long…",
+      "full_text": "Underrated life advice: It’s perfectly ok to live a life that looks confusing to others. Wake up early. Do hard things. Focus deeply. Eat real foods. Go on long walks. Obsess over one thing. Read old books. Avoid drama. Save money. Love your people. Recipe for a good life.",
+      "hook": "SahilBloom: ok to live a life that looks confusing to others; long walks, old books, one obsession (best brand fit today)",
+      "draft_en": "Most of what helps me looks like nothing from the outside.\n\nA walk with nowhere to be. A page in ink before the laptop opens. A book older than I am.\n\nNone of it photographs well. I keep doing it anyway.",
+      "video_tip": "15 seconds, no face, morning window light. Slow cuts: walking shoes by the door, a worn paperback on the table, a capped fountain pen resting on an open notebook with one line written. Room sound only. Last frame text: 'Looks like nothing.'"
     },
     {
-      "display_name": "James Clear",
-      "name": "James Clear",
-      "handle": "@JamesClear",
-      "status_url": "https://x.com/JamesClear/status/2110056458809405452",
-      "url": "https://x.com/JamesClear/status/2110056458809405452",
-      "posted_at": "10:13 AM MT",
-      "views": 19167,
-      "views_label": "19167",
-      "likes": 782,
-      "reposts": 91,
-      "replies": 0,
-      "bookmarks": 192,
-      "media_note": "text-only; replies limited to mentioned users",
+      "display_name": "Tim Ferriss",
+      "name": "Tim Ferriss",
+      "handle": "@tferriss",
+      "status_url": "https://x.com/tferriss/status/2110352597328556204",
+      "url": "https://x.com/tferriss/status/2110352597328556204",
+      "posted_at": "5:50 AM MT",
+      "views": 34763,
+      "views_label": "34763",
+      "likes": 263,
+      "reposts": 21,
+      "replies": 21,
+      "bookmarks": 468,
+      "media_note": "video clip (Sam Corcos); high save ratio (468 bookmarks); open replies; clip not watched, so drafts don't claim its method",
       "highlight": true,
-      "text": "Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is…",
-      "full_text": "Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.",
-      "hook": "JamesClear: best work is a full expression of you; craft that feels alive (replies locked; post or quote angle)",
-      "draft_en": "The work that feels most like me is usually the slowest to show.\n\nA page in ink. A small product decision. A homepage that still says almost live.\n\nI'd rather build that way than force a version that looks busy and feels wrong.",
-      "video_tip": "12 seconds, same desk, no face, no music. Hand writes one short line in a notebook, underlines nothing, caps the pen. Last frame text: 'Feels like me.'"
+      "text": "Ditch Your To-Do List and Do This Instead — @SamCorcos https://t.co/TCwjASrWD9",
+      "full_text": "Ditch Your To-Do List and Do This Instead — @SamCorcos https://t.co/TCwjASrWD9",
+      "hook": "tferriss: ditch your to-do list and do this instead (Sam Corcos clip; soften to a list that fits the day)",
+      "draft_en": "My to-do list was never short on ideas. It was short on hours.\n\nWriting it by hand slows me down enough to see when it's turned into a wish list.\n\nIf it doesn't fit on the page, it waits for tomorrow.",
+      "video_tip": "12 seconds, overhead on textured cream paper, window light, room sound only. A phone showing a long to-do list is turned face-down. A hand uncaps a fountain pen, writes three short lines on a small notebook page, then closes the cover. No face, no music. Last frame text: 'If it doesn't fit, it waits.'"
     }
   ],
-  "hits_count": 3,
-  "x_score": 109806,
+  "hits_count": 2,
+  "x_score": 82208,
   "outsiders": [
     {
-      "display_name": "Matrix Masters",
-      "handle": "@MatrixMasters33",
-      "status_url": "https://x.com/MatrixMasters33/status/2109506558585708824",
+      "display_name": "Barred and Bearded",
+      "handle": "@RileeDHarrison",
+      "status_url": "https://x.com/RileeDHarrison/status/2110358383228256350",
       "posted_at": "~48h",
-      "views": 28689,
+      "views": 58664,
       "highlight": true,
-      "text": "Follow-up to handwriting vs typing: what changes in the brain when you write by hand (long, fringe framing)",
-      "hook": "MatrixMasters33: handwriting encoding (pattern only)"
+      "text": "Being a lawyer is basically having a to-do list and then spending the whole day doing things that were not on the to-do list.",
+      "hook": "RileeDHarrison: to-do list vs the actual day (lawyer humor; pattern only)"
     },
     {
-      "display_name": "BreakTheSilos",
-      "handle": "@BholanathDutta",
-      "status_url": "https://x.com/BholanathDutta/status/2109559948837367975",
+      "display_name": "Morissa Schwartz 📚 (Dr. Rissy)",
+      "handle": "@MorissaSchwartz",
+      "status_url": "https://x.com/MorissaSchwartz/status/2110040208028680253",
       "posted_at": "~48h",
-      "views": 29736,
+      "views": 5089,
       "highlight": true,
-      "text": "No pen and paper please ! (puzzle bait; high views, thin for brand)",
-      "hook": "BholanathDutta: pen-and-paper puzzle (skip tone)"
+      "text": "My to-do list has a to-do list. Apparently, even my tasks are delegating.",
+      "hook": "MorissaSchwartz: to-do list has a to-do list (humor)"
     },
     {
-      "display_name": "Bobby Sauce",
-      "handle": "@takenaps",
-      "status_url": "https://x.com/takenaps/status/2109900111287365821",
+      "display_name": "Silentum 🦁",
+      "handle": "@xKhalifan",
+      "status_url": "https://x.com/xKhalifan/status/2109918429113389267",
       "posted_at": "~48h",
-      "views": 4715,
+      "views": 1618,
       "highlight": false,
-      "text": "How to Get Addicted to Prosperity — start small and remain addicted (finance tone; start-small hook only)",
-      "hook": "takenaps: start small, stay consistent (finance; pattern only)"
+      "text": "You can’t say your life is boring when there are so many things you could do. You’re just so overwhelmed that you don’t know where to start.  Choose something that you do automatically, which others f…",
+      "hook": "xKhalifan: overwhelmed, don't know where to start; master one thing"
     },
     {
-      "display_name": "SA News Channel",
-      "handle": "@SatlokChannel",
-      "status_url": "https://x.com/SatlokChannel/status/2109579302383886487",
+      "display_name": "Mathieu",
+      "handle": "@miniapeur",
+      "status_url": "https://x.com/miniapeur/status/2109973286264156440",
       "posted_at": "~48h",
-      "views": 3400,
+      "views": 1156,
       "highlight": false,
-      "text": "Want to Start Reading Books? Start Small! (thread)",
-      "hook": "SatlokChannel: start small with reading"
+      "text": "I think I’m ready to spend a year or more somewhere like this: a quiet life close to nature, long walks with nowhere to be, slow days, and enough time to read, think, and disappear into my research. h…",
+      "hook": "miniapeur: quiet life, long walks with nowhere to be, time to read"
     },
     {
-      "display_name": "sofia",
-      "handle": "@missparamores",
-      "status_url": "https://x.com/missparamores/status/2109960507545547223",
+      "display_name": "Denton Clark",
+      "handle": "@591actual",
+      "status_url": "https://x.com/591actual/status/2110382501378117681",
       "posted_at": "~48h",
-      "views": 228,
+      "views": 939,
       "highlight": false,
-      "text": "got myself a fountain pen that's how seriously i take my journaling",
-      "hook": "missparamores: fountain pen for journaling"
+      "text": "One thing I’ve learned about myself is if I write stuff down via pen and paper, I can retain that information. If I try to do it electronically, I get spaced out and retain none of it or very little.…",
+      "hook": "591actual: pen and paper helps me retain; back to planning by hand"
     },
     {
-      "display_name": "angela",
+      "display_name": "YelarinYellowStellar",
+      "handle": "@YelarinStellar",
+      "status_url": "https://x.com/YelarinStellar/status/2110042357802709129",
+      "posted_at": "~48h",
+      "views": 922,
+      "highlight": false,
+      "text": "I did more fountain pen stuff, I really like how Shelby came out https://t.co/bUcsBimj0p",
+      "hook": "YelarinStellar: fountain pen art"
+    },
+    {
+      "display_name": "Aduragbemi 🌍🔥",
+      "handle": "@aduragbemi024",
+      "status_url": "https://x.com/aduragbemi024/status/2109902525201527120",
+      "posted_at": "~48h",
+      "views": 874,
+      "highlight": false,
+      "text": "Good morning. One small step today is still progress. Let’s make it count.",
+      "hook": "aduragbemi024: one small step is still progress"
+    },
+    {
+      "display_name": "angela of IKYKtwt",
       "handle": "@angelaisdonefor",
       "status_url": "https://x.com/angelaisdonefor/status/2109776981545849106",
       "posted_at": "~48h",
-      "views": 691,
+      "views": 762,
       "highlight": false,
       "text": "guys comment and i, fountain pen nerd 1000, will assign you a fountain pen model and ink color !",
-      "hook": "angelaisdonefor: fountain pen nerd joy"
+      "hook": "angelaisdonefor: fountain pen nerd assigns pen and ink"
     },
     {
-      "display_name": "Plaguings",
-      "handle": "@Plaguingss",
-      "status_url": "https://x.com/Plaguingss/status/2109394679170990493",
+      "display_name": "𝐋𝐚𝐧𝐫𝓮",
+      "handle": "@Lanre__Laredo",
+      "status_url": "https://x.com/Lanre__Laredo/status/2110081429237551481",
       "posted_at": "~48h",
-      "views": 381,
+      "views": 654,
       "highlight": false,
-      "text": "GF got me a fountain pen so we be taking up writing now",
-      "hook": "Plaguingss: first fountain pen gift"
+      "text": "that boring life you keep complaining about? staying home, minding your business, and keeping your circle small might be saving you from problems you don’t even know exist. sometimes, a quiet life is…",
+      "hook": "Lanre__Laredo: the boring quiet life might be protecting you"
     },
     {
-      "display_name": "Faisal",
-      "handle": "@babushka99",
-      "status_url": "https://x.com/babushka99/status/2109364066091249808",
+      "display_name": "Benedikt",
+      "handle": "@Philip2Phl99",
+      "status_url": "https://x.com/Philip2Phl99/status/2110157923854983584",
       "posted_at": "~48h",
-      "views": 442,
+      "views": 401,
       "highlight": false,
-      "text": "The fountain pen obsession has slowly started (or returned?)",
-      "hook": "babushka99: fountain pen rabbit hole"
+      "text": "read the old books. I repeat read the old books. it's a practice. let the words enter ur being. read the old books.... read em https://t.co/Hf5o6trGsn",
+      "hook": "Philip2Phl99: read the old books as a practice"
     },
     {
-      "display_name": "Global Alpha",
-      "handle": "@GlobalAlphaHQ",
-      "status_url": "https://x.com/GlobalAlphaHQ/status/2109427868115808600",
+      "display_name": "MellY$a🌿",
+      "handle": "@HoneyInBlack",
+      "status_url": "https://x.com/HoneyInBlack/status/2110290148894056820",
       "posted_at": "~48h",
-      "views": 342,
+      "views": 378,
       "highlight": false,
-      "text": "Analog tools survived the industrial revolution only to become status symbols; my fountain pen is that anchor",
-      "hook": "GlobalAlphaHQ: analog tools as anchor"
+      "text": "sometimes you're not lazy. you're just so overwhelmed by everything you need to fix that you don't know where to start.",
+      "hook": "HoneyInBlack: not lazy, overwhelmed and don't know where to start"
     },
     {
-      "display_name": "Jean Silga",
-      "handle": "@jeansilga",
-      "status_url": "https://x.com/jeansilga/status/2109624568058990999",
+      "display_name": "Blue_Cherrie💙",
+      "handle": "@_Medeyonmi",
+      "status_url": "https://x.com/_Medeyonmi/status/2110015767513121203",
       "posted_at": "~48h",
-      "views": 25,
+      "views": 357,
       "highlight": false,
-      "text": "The most dangerous morning in a habit's life isn't day one. It's the morning after you missed a day.",
-      "hook": "jeansilga: morning after a missed day"
+      "text": "A gentle reminder: you don't have to fix your entire life today. Just take care of the next little thing in front of you. One thing at a time. 🫂💙",
+      "hook": "_Medeyonmi: don't fix your whole life today; the next little thing"
     },
     {
-      "display_name": "Zachary Gersdorff",
-      "handle": "@ZachTGGuardian",
-      "status_url": "https://x.com/ZachTGGuardian/status/2109615420755886582",
+      "display_name": "Vv🐱🐶vV",
+      "handle": "@myriadofstars",
+      "status_url": "https://x.com/myriadofstars/status/2110185096200487261",
       "posted_at": "~48h",
-      "views": 4,
+      "views": 287,
       "highlight": false,
-      "text": "I used to treat rest as something I had to earn… Now I think of rest as maintenance, not a prize",
-      "hook": "ZachTGGuardian: rest as maintenance not a prize"
+      "text": "unrelated but last night I was trying out a fountain pen sab gifted me and I could write legibly even with my bandaged thumb 😭 anw I just thought of all those years in school hating penmanship work bc…",
+      "hook": "myriadofstars: first fountain pen made handwriting not hurt"
     },
     {
-      "display_name": "Andy Holt",
-      "handle": "@TipsTricksHome",
-      "status_url": "https://x.com/TipsTricksHome/status/2110049785705091165",
+      "display_name": "Dave Nunez",
+      "handle": "@capitaltruist",
+      "status_url": "https://x.com/capitaltruist/status/2110178302459805942",
       "posted_at": "~48h",
-      "views": 4,
+      "views": 271,
       "highlight": false,
-      "text": "Missed a day of journalling? Don't feel guilty or try to catch up. Just pick up where you left off.",
-      "hook": "TipsTricksHome: missed journaling day, no catch-up"
+      "text": "Not everything should be written by hand. Runbooks, changelogs, instructions can be generated. But pieces that convey or provoke thought should be mainlined to the page by your brain. https://t.co/Nhe…",
+      "hook": "capitaltruist: what should still be written by hand: the thinking pieces"
     },
     {
-      "display_name": "Carlos Ziegler",
-      "handle": "@CARLOSZIEGLER",
-      "status_url": "https://x.com/CARLOSZIEGLER/status/2109744131232723342",
+      "display_name": "CA Anjali Singhal",
+      "handle": "@anjalisinghalca",
+      "status_url": "https://x.com/anjalisinghalca/status/2110411560736665874",
       "posted_at": "~48h",
-      "views": 24,
+      "views": 215,
       "highlight": false,
-      "text": "Missed a day? No big deal. Habit tracker that doesn't punish you for being human.",
-      "hook": "CARLOSZIEGLER: missed day without punishment"
+      "text": "Funny thing is, I still do this. I use digital tools too, but I still like writing some expenses down by hand. ₹500 spent online is easy to forget. Writing “₹500 spent” somehow makes me actually feel…",
+      "hook": "anjalisinghalca: writing expenses by hand makes them felt"
     },
     {
-      "display_name": "Lydia Shongwe",
-      "handle": "@LydiaTHaPoet",
-      "status_url": "https://x.com/LydiaTHaPoet/status/2110060443246948694",
+      "display_name": "lily_x_౨ৎ",
+      "handle": "@lily_10asl",
+      "status_url": "https://x.com/lily_10asl/status/2110096870932672682",
       "posted_at": "~48h",
-      "views": 37,
+      "views": 167,
       "highlight": false,
-      "text": "Every time you repeatedly break promises to yourself, you weaken your own trust.",
-      "hook": "LydiaTHaPoet: keep small promises to yourself"
+      "text": "At my gym, there’s a guy who tracks his entire workout the old-fashioned way: a pen and a notebook. Every set, every rep, every weight gets recorded by hand. One day, someone asked him why he didn’t s…",
+      "hook": "lily_10asl: gym notebook over a fitness app"
     },
     {
-      "display_name": "More-Self",
-      "handle": "@moreselfs",
-      "status_url": "https://x.com/moreselfs/status/2110068052901663200",
+      "display_name": "Marvellous_Fasuyi",
+      "handle": "@Marvie2007",
+      "status_url": "https://x.com/Marvie2007/status/2110266583306179002",
       "posted_at": "~48h",
-      "views": 0,
+      "views": 114,
       "highlight": false,
-      "text": "You don't need more motivation. You need a better starting habit. Start within 5 minutes.",
-      "hook": "moreselfs: better starting habit"
+      "text": "One mistake people make when trying to grow is attempting to change everything at once. New habits, new goals, new routines. The result is usually overwhelm, inconsistency and frustration. Sometimes,…",
+      "hook": "Marvie2007: don't change everything at once; one thing at a time"
     },
     {
-      "display_name": "l-umen",
-      "handle": "@_Eniolola",
-      "status_url": "https://x.com/_Eniolola/status/2110069662557872303",
+      "display_name": "1ofNone",
+      "handle": "@i_am_justo",
+      "status_url": "https://x.com/i_am_justo/status/2110172886010937639",
       "posted_at": "~48h",
-      "views": 2,
+      "views": 89,
       "highlight": false,
-      "text": "Journaling actually helps me make sense of my thoughts but will I pick up my pen and actually write?",
-      "hook": "_Eniolola: knowing journaling helps vs picking up the pen"
+      "text": "A not to-do list, is more important than a to-do list.",
+      "hook": "i_am_justo: a not-to-do list matters more"
     },
     {
-      "display_name": "Joe Morris",
-      "handle": "@misterjoemorris",
-      "status_url": "https://x.com/misterjoemorris/status/2110067288351334650",
+      "display_name": "{sb}",
+      "handle": "@SBCre8tive",
+      "status_url": "https://x.com/SBCre8tive/status/2109991317602242844",
       "posted_at": "~48h",
-      "views": 1,
+      "views": 41,
       "highlight": false,
-      "text": "Exercise, work, projects, relationships all need consistent investment. Start small and keep plodding!",
-      "hook": "misterjoemorris: start small, keep plodding"
+      "text": "I will embrace all the technology in the world, but I’m still going use a paper planner and write it down.",
+      "hook": "SBCre8tive: embrace tech, still use a paper planner"
     },
     {
-      "display_name": "IZUCHUKWU",
-      "handle": "@thebiggzaddy_",
-      "status_url": "https://x.com/thebiggzaddy_/status/2109996038752780744",
+      "display_name": "King Daniel The Great",
+      "handle": "@greatkingdaniel",
+      "status_url": "https://x.com/greatkingdaniel/status/2110399044803781067",
       "posted_at": "~48h",
-      "views": 74,
+      "views": 40,
       "highlight": false,
-      "text": "writing things down with pen and paper > it's a thousand times better honestly",
-      "hook": "thebiggzaddy_: pen and paper over typing"
-    },
-    {
-      "display_name": "Sehrish",
-      "handle": "@sehrishlyy",
-      "status_url": "https://x.com/sehrishlyy/status/2109886049908314442",
-      "posted_at": "~48h",
-      "views": 250,
-      "highlight": false,
-      "text": "A good habit is worth more than a big plan you never follow. Start small and stay consistent.",
-      "hook": "sehrishlyy: habit over unused big plan"
-    },
-    {
-      "display_name": "moonlitcanine",
-      "handle": "@moonlitcanine",
-      "status_url": "https://x.com/moonlitcanine/status/2109389209953820909",
-      "posted_at": "~48h",
-      "views": 43,
-      "highlight": false,
-      "text": "guys I got me my first fountain pen and it's so fucking nice I could cry",
-      "hook": "moonlitcanine: first fountain pen joy"
+      "text": "A life that confuses other people is often the one that finally fits you. Long walks. Old books. Real food. Quiet focus. You don't need their map. #Discipline https://t.co/sjJ6UUi9Mr https://t.co/VuXL…",
+      "hook": "greatkingdaniel: echo of Bloom: a life that confuses others fits you"
     }
   ],
   "outsiders_count": 20,
   "patterns": [
-    "Rest without guilt: Bloom same-day STAR ~42.2k on eliminating guilt about free time and rest (open replies). Soften into ten quiet minutes with no apology attached",
-    "Craft that feels like you: Clear same-day STAR ~19.2k on best work as full expression of personality (replies locked). Soften into slow analog build that feels right",
-    "Careful outsourcing: Ferriss same-day STAR ~48.4k on what you outsource to AI (open replies; AI topic thin for brand). Soften into what you keep by hand — first honest line",
-    "Climbing: Koe 6-month ~420.8k; Koe addiction redirect ~190.0k; Bloom McCarthy two-feet ~121.5k; Ferriss Please-use-AI ~104.9k and Austin TOMBSTONE ~86.4k (thin for brand); Julian unicorns ~83.8k (skip); Bloom moisturizer ~1.51M (product drop, skip)",
-    "Outsiders: fountain-pen rabbit hole and stationery joy; rest as maintenance not a prize; morning after a missed day; start small and keep plodding; pen and paper over typing. Skipped AI-tool spam, finance bait, puzzle bait, crude posts"
+    "Permission for a quiet, odd-looking life: Bloom same-day STAR ~47.4k (open replies) lists plain habits (long walks, old books, one obsession). Outsiders echo it (quiet life, boring life, read old books). Soften into: most of what helps looks like nothing from the outside",
+    "To-do list fatigue: Ferriss same-day STAR ~34.8k on ditching the to-do list (Sam Corcos clip, 468 saves, so people bookmark it to use). Outsider jokes travel further (~58.7k lawyer to-do post, ~5.1k to-do list has a to-do list). Soften into a handwritten list that fits the day",
+    "Don't know where to start: outsiders on overwhelm (not lazy, just overwhelmed; one thing at a time; don't change everything at once). This is the Calmly Crashing reader, so it gets its own post",
+    "Climbing: Bloom rest-guilt 42.2k to 183.2k overnight (open, best climbing target); Clear craft 19.2k to 92.8k (locked); Koe 6-month ~424.8k and addiction ~193.4k; Bloom McCarthy ~122.4k; Ferriss outsource-AI ~85.4k and Austin TOMBSTONE ~89.9k (thin for brand); Ferriss PTSD dream-engineering ~22.2k is a content-theme signal; Julian unicorns and Bloom moisturizer skipped",
+    "Outsiders: pen and paper for memory, first fountain pen joy, paper planners next to tech, gym notebook over an app. Skipped AI-tool spam, Claude Code bait, puzzle bait, crypto, crude posts"
   ],
   "reply_ideas": [
     {
       "target_handle": "@SahilBloom",
-      "target_url": "https://x.com/SahilBloom/status/2110024848005029892",
-      "views": 42239,
+      "target_url": "https://x.com/SahilBloom/status/2110352029495316639",
+      "views": 47445,
       "same_day": true,
-      "reply_text": "This one lands. I kept treating rest like a prize for finishing the list. The list never ends. Ten quiet minutes with no apology attached has been a better experiment."
+      "reply_text": "Long walks and old books are the two people find strangest. Neither looks productive from the outside. Both make everything else on that list easier for me."
+    },
+    {
+      "target_handle": "@tferriss",
+      "target_url": "https://x.com/tferriss/status/2110352597328556204",
+      "views": 34763,
+      "same_day": true,
+      "reply_text": "Writing a task down used to feel almost as good as doing it, which is how my list got so long. Curious which part of Sam's approach people here actually stuck with."
     },
     {
       "target_handle": "@SahilBloom",
       "target_url": "https://x.com/SahilBloom/status/2110024848005029892",
-      "views": 42239,
-      "same_day": true,
-      "reply_text": "Free time used to feel like I was falling behind. I'm learning it can just be part of the workday, same as the pen and the page."
+      "views": 183220,
+      "same_day": false,
+      "reply_text": "What helped me a little: giving rest a shape. A walk, a pen, a page with nothing due on it. Easier to defend to myself than doing nothing."
     },
     {
       "target_handle": "@thedankoe",
-      "target_url": "https://x.com/thedankoe/status/2108957692328849678",
-      "views": 420815,
+      "target_url": "https://x.com/thedankoe/status/2109271564931797433",
+      "views": 193354,
       "same_day": false,
-      "reply_text": "Six months still sounds short until week three, when nothing looks different yet. That's the week I try to plan for. Small enough to keep doing when it's boring."
-    },
-    {
-      "target_handle": "@SahilBloom",
-      "target_url": "https://x.com/SahilBloom/status/2109027081090990129",
-      "views": 121488,
-      "same_day": false,
-      "reply_text": "\"Deal with the two feet right in front of you\" is still the part I need. The big plan gets loud fast. Two feet, I can manage."
+      "reply_text": "I lose track of time with a fountain pen and a blank page the way other people lose it to a feed. Same pull. I'm just glad it landed on something I can keep."
     }
   ],
-  "bip_draft": "Building Calmly Crashing, Tuesday notes.\n\nI'm sourcing before anything goes in the shop: fountain pen ink, wireless typewriter-style keyboards, and science-backed serums for the Spa side. Nothing gets listed until I've used it or trusted the lab.\n\nStill under construction. I built nearly all of it myself.\n\ncalmlycrashing.com\n\n#buildinpublic",
-  "video_tip": "15 seconds, overhead on textured cream paper, window light, room sound only. A phone is placed face-down beside a closed notebook. A hand uncaps a fountain pen, opens to a blank page, writes nothing for a few beats, then one short line. No face. Last frame text: 'Ten quiet minutes.'",
+  "bip_draft": "Building Calmly Crashing, Wednesday notes.\n\nThe site still says under construction. That's accurate, so it stays.\n\nBehind it I'm sourcing slowly: fountain pen ink, wireless typewriter-style keyboards, a few things for the Spa side. Nothing goes in the shop until I've used it and trust it.\n\nI built nearly all of it myself, which is why it's taking a while.\n\ncalmlycrashing.com\n\n#buildinpublic",
+  "video_tip": "12 seconds, overhead on textured cream paper, window light, room sound only. A phone showing a long to-do list is turned face-down. A hand uncaps a fountain pen, writes three short lines on a small notebook page, then closes the cover. No face, no music. Last frame text: 'If it doesn't fit, it waits.'",
   "virals": [
-    {
-      "display_name": "Tim Ferriss",
-      "name": "Tim Ferriss",
-      "handle": "@tferriss",
-      "url": "https://x.com/tferriss/status/2109987399488933924",
-      "posted_at": "5:39 AM MT",
-      "views": 48400,
-      "views_label": "48400",
-      "highlight": true,
-      "text": "Be very careful what you outsource to AI.",
-      "hook": "tferriss: be careful what you outsource to AI (soften to what you keep by hand; open replies)"
-    },
     {
       "display_name": "Sahil Bloom",
       "name": "Sahil Bloom",
       "handle": "@SahilBloom",
-      "url": "https://x.com/SahilBloom/status/2110024848005029892",
-      "posted_at": "8:08 AM MT",
-      "views": 42239,
-      "views_label": "42239",
+      "url": "https://x.com/SahilBloom/status/2110352029495316639",
+      "posted_at": "5:48 AM MT",
+      "views": 47445,
+      "views_label": "47445",
       "highlight": true,
-      "text": "The older I get, the more I realize that the single greatest challenge for any ambitious person is eliminating the guilt associated with free time and rest.",
-      "hook": "SahilBloom: greatest challenge is dropping guilt about free time and rest (best brand fit today)"
+      "text": "Underrated life advice: It’s perfectly ok to live a life that looks confusing to others. Wake up early. Do hard things. Focus deeply. Eat real foods. Go on long…",
+      "hook": "SahilBloom: ok to live a life that looks confusing to others; long walks, old books, one obsession (best brand fit today)"
     },
     {
-      "display_name": "James Clear",
-      "name": "James Clear",
-      "handle": "@JamesClear",
-      "url": "https://x.com/JamesClear/status/2110056458809405452",
-      "posted_at": "10:13 AM MT",
-      "views": 19167,
-      "views_label": "19167",
+      "display_name": "Tim Ferriss",
+      "name": "Tim Ferriss",
+      "handle": "@tferriss",
+      "url": "https://x.com/tferriss/status/2110352597328556204",
+      "posted_at": "5:50 AM MT",
+      "views": 34763,
+      "views_label": "34763",
       "highlight": true,
-      "text": "Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is…",
-      "hook": "JamesClear: best work is a full expression of you; craft that feels alive (replies locked; post or quote angle)"
+      "text": "Ditch Your To-Do List and Do This Instead — @SamCorcos https://t.co/TCwjASrWD9",
+      "hook": "tferriss: ditch your to-do list and do this instead (Sam Corcos clip; soften to a list that fits the day)"
     },
     {
-      "display_name": "Matrix Masters",
-      "name": "Matrix Masters",
-      "handle": "@MatrixMasters33",
-      "url": "https://x.com/MatrixMasters33/status/2109506558585708824",
+      "display_name": "Barred and Bearded",
+      "name": "Barred and Bearded",
+      "handle": "@RileeDHarrison",
+      "url": "https://x.com/RileeDHarrison/status/2110358383228256350",
       "posted_at": "~48h",
-      "views": 28689,
-      "views_label": "28689",
+      "views": 58664,
+      "views_label": "58664",
       "highlight": true,
-      "text": "Follow-up to handwriting vs typing: what changes in the brain when you write by hand (long, fringe framing)",
-      "hook": "MatrixMasters33: handwriting encoding (pattern only)"
+      "text": "Being a lawyer is basically having a to-do list and then spending the whole day doing things that were not on the to-do list.",
+      "hook": "RileeDHarrison: to-do list vs the actual day (lawyer humor; pattern only)"
     },
     {
-      "display_name": "BreakTheSilos",
-      "name": "BreakTheSilos",
-      "handle": "@BholanathDutta",
-      "url": "https://x.com/BholanathDutta/status/2109559948837367975",
+      "display_name": "Morissa Schwartz 📚 (Dr. Rissy)",
+      "name": "Morissa Schwartz 📚 (Dr. Rissy)",
+      "handle": "@MorissaSchwartz",
+      "url": "https://x.com/MorissaSchwartz/status/2110040208028680253",
       "posted_at": "~48h",
-      "views": 29736,
-      "views_label": "29736",
+      "views": 5089,
+      "views_label": "5089",
       "highlight": true,
-      "text": "No pen and paper please ! (puzzle bait; high views, thin for brand)",
-      "hook": "BholanathDutta: pen-and-paper puzzle (skip tone)"
+      "text": "My to-do list has a to-do list. Apparently, even my tasks are delegating.",
+      "hook": "MorissaSchwartz: to-do list has a to-do list (humor)"
     },
     {
-      "display_name": "Bobby Sauce",
-      "name": "Bobby Sauce",
-      "handle": "@takenaps",
-      "url": "https://x.com/takenaps/status/2109900111287365821",
+      "display_name": "Silentum 🦁",
+      "name": "Silentum 🦁",
+      "handle": "@xKhalifan",
+      "url": "https://x.com/xKhalifan/status/2109918429113389267",
       "posted_at": "~48h",
-      "views": 4715,
-      "views_label": "4715",
+      "views": 1618,
+      "views_label": "1618",
       "highlight": false,
-      "text": "How to Get Addicted to Prosperity — start small and remain addicted (finance tone; start-small hook only)",
-      "hook": "takenaps: start small, stay consistent (finance; pattern only)"
+      "text": "You can’t say your life is boring when there are so many things you could do. You’re just so overwhelmed that you don’t know where to start.  Choose something that you do automatically, which others f…",
+      "hook": "xKhalifan: overwhelmed, don't know where to start; master one thing"
     },
     {
-      "display_name": "SA News Channel",
-      "name": "SA News Channel",
-      "handle": "@SatlokChannel",
-      "url": "https://x.com/SatlokChannel/status/2109579302383886487",
+      "display_name": "Mathieu",
+      "name": "Mathieu",
+      "handle": "@miniapeur",
+      "url": "https://x.com/miniapeur/status/2109973286264156440",
       "posted_at": "~48h",
-      "views": 3400,
-      "views_label": "3400",
+      "views": 1156,
+      "views_label": "1156",
       "highlight": false,
-      "text": "Want to Start Reading Books? Start Small! (thread)",
-      "hook": "SatlokChannel: start small with reading"
+      "text": "I think I’m ready to spend a year or more somewhere like this: a quiet life close to nature, long walks with nowhere to be, slow days, and enough time to read, think, and disappear into my research. h…",
+      "hook": "miniapeur: quiet life, long walks with nowhere to be, time to read"
     }
   ],
-  "virals_narrative": "Three same-day watchlist STARs. Tim Ferriss on being careful what you outsource to AI (~48.4k, open replies) is the biggest by views but thin for brand as AI talk — soften into what you keep by hand. Sahil Bloom on dropping guilt about free time and rest (~42.2k, open) is the cleanest reply target. James Clear on craft as a full expression of you (~19.2k) has replies limited to mentioned users, so post-or-quote only. Koe's 6-month commit (~421k) and Bloom's McCarthy two-feet line (~121k) are still climbing and open for replies. Outsiders lean analog again: fountain pens, journaling restarts, rest-as-maintenance, and the morning after a missed day. View counts outside the watchlist are thin (X search only; Treg Top not used this run). Tuesday BIP stays on a real detail: product sourcing for ink, typewriter keyboards, and Spa serums before the shop opens.",
+  "virals_narrative": "Two same-day watchlist STARs, both early (~5:50 AM MT). Sahil Bloom on living a life that looks confusing to others (~47.4k, open replies) is the cleanest brand fit: long walks, old books, quiet focus. Tim Ferriss's Sam Corcos clip on ditching the to-do list (~34.8k) has a high save count, so the topic is useful, not just loud. James Clear hasn't posted today as of ~11:00 AM MT; naval and Julian are quiet. Yesterday's Bloom rest-guilt post jumped from ~42k to ~183k with open replies, which makes it the best climbing reply target. Outsiders lean overwhelmed-and-don't-know-where-to-start, pen-and-paper memory, and quiet-life posts. View counts outside the watchlist are thin (X search only). Wednesday BIP sticks to real details: site still under construction, slow sourcing, built nearly all of it herself.",
   "virals_target": 20,
   "virals_window": "last ~48h",
-  "narrative_synthesis": "Three same-day watchlist STARs. Tim Ferriss on being careful what you outsource to AI (~48.4k, open replies) is the biggest by views but thin for brand as AI talk — soften into what you keep by hand. Sahil Bloom on dropping guilt about free time and rest (~42.2k, open) is the cleanest reply target. James Clear on craft as a full expression of you (~19.2k) has replies limited to mentioned users, so post-or-quote only. Koe's 6-month commit (~421k) and Bloom's McCarthy two-feet line (~121k) are still climbing and open for replies. Outsiders lean analog again: fountain pens, journaling restarts, rest-as-maintenance, and the morning after a missed day. View counts outside the watchlist are thin (X search only; Treg Top not used this run). Tuesday BIP stays on a real detail: product sourcing for ink, typewriter keyboards, and Spa serums before the shop opens.",
+  "narrative_synthesis": "Two same-day watchlist STARs, both early (~5:50 AM MT). Sahil Bloom on living a life that looks confusing to others (~47.4k, open replies) is the cleanest brand fit: long walks, old books, quiet focus. Tim Ferriss's Sam Corcos clip on ditching the to-do list (~34.8k) has a high save count, so the topic is useful, not just loud. James Clear hasn't posted today as of ~11:00 AM MT; naval and Julian are quiet. Yesterday's Bloom rest-guilt post jumped from ~42k to ~183k with open replies, which makes it the best climbing reply target. Outsiders lean overwhelmed-and-don't-know-where-to-start, pen-and-paper memory, and quiet-life posts. View counts outside the watchlist are thin (X search only). Wednesday BIP sticks to real details: site still under construction, slow sourcing, built nearly all of it herself.",
   "leaderboards": {
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-14",
     "week": {
       "label": "Week",
       "range": [
-        "2026-10-07",
-        "2026-10-13"
+        "2026-10-08",
+        "2026-10-14"
       ],
       "entries": [
         {
           "handle": "@SahilBloom",
           "display_name": "Sahil Bloom",
-          "views": 298313,
-          "hits": 3,
-          "highlights": 3
+          "views": 345758,
+          "hits": 4,
+          "highlights": 4
         },
         {
           "handle": "@thedankoe",
@@ -430,9 +397,9 @@
         {
           "handle": "@tferriss",
           "display_name": "Tim Ferriss",
-          "views": 71991,
-          "hits": 3,
-          "highlights": 2
+          "views": 106754,
+          "hits": 4,
+          "highlights": 3
         },
         {
           "handle": "@JamesClear",
@@ -447,15 +414,15 @@
       "label": "Month",
       "range": [
         "2026-10-01",
-        "2026-10-13"
+        "2026-10-14"
       ],
       "entries": [
         {
           "handle": "@SahilBloom",
           "display_name": "Sahil Bloom",
-          "views": 784020,
-          "hits": 9,
-          "highlights": 8
+          "views": 831465,
+          "hits": 10,
+          "highlights": 9
         },
         {
           "handle": "@thedankoe",
@@ -467,9 +434,9 @@
         {
           "handle": "@tferriss",
           "display_name": "Tim Ferriss",
-          "views": 108768,
-          "hits": 5,
-          "highlights": 4
+          "views": 143531,
+          "hits": 6,
+          "highlights": 5
         },
         {
           "handle": "@JamesClear",
@@ -490,7 +457,8 @@
       "2026-10-10",
       "2026-10-11",
       "2026-10-12",
-      "2026-10-13"
+      "2026-10-13",
+      "2026-10-14"
     ]
   },
   "board_features": {
@@ -504,102 +472,125 @@
   "climbing": [
     {
       "handle": "@thedankoe",
-      "views": 420815,
+      "views": 424826,
       "url": "https://x.com/thedankoe/status/2108957692328849678",
       "note": "commit for 6 months (Oct 10)"
     },
     {
       "handle": "@thedankoe",
-      "views": 189991,
+      "views": 193354,
       "url": "https://x.com/thedankoe/status/2109271564931797433",
-      "note": "addicted easily / one hard thing for 2 years (Oct 11)"
+      "note": "addicted easily / point the pull at one hard thing (Oct 11; open replies)"
     },
     {
       "handle": "@SahilBloom",
-      "views": 121488,
+      "views": 183220,
+      "url": "https://x.com/SahilBloom/status/2110024848005029892",
+      "note": "guilt about free time and rest (Oct 13; 42.2k yesterday to 183.2k; open replies, best climbing target)"
+    },
+    {
+      "handle": "@SahilBloom",
+      "views": 122351,
       "url": "https://x.com/SahilBloom/status/2109027081090990129",
       "note": "Cormac McCarthy bad-luck quote, two feet in front of you (Oct 10)"
     },
     {
-      "handle": "@tferriss",
-      "views": 104930,
-      "url": "https://x.com/tferriss/status/2109418332566986898",
-      "note": "\"Please use AI\" clip (Oct 11; AI topic, skip for brand)"
+      "handle": "@JamesClear",
+      "views": 92775,
+      "url": "https://x.com/JamesClear/status/2110056458809405452",
+      "note": "craft as full expression of you (Oct 13; 19.2k to 92.8k; replies locked)"
     },
     {
       "handle": "@AustinKleon",
-      "views": 86442,
+      "views": 89932,
       "url": "https://x.com/austinkleon/status/2109666195289067821",
       "note": "TOMBSTONE / actor-in-wrong-movie listicle (Oct 12; fun, thin for brand)"
     },
     {
+      "handle": "@tferriss",
+      "views": 85384,
+      "url": "https://x.com/tferriss/status/2109987399488933924",
+      "note": "be careful what you outsource to AI (Oct 13; AI topic, thin for brand)"
+    },
+    {
       "handle": "@Julian",
-      "views": 83799,
+      "views": 84340,
       "url": "https://x.com/Julian/status/2109057028253704390",
       "note": "unicorn founder traits (Oct 10; skip for brand)"
     },
     {
       "handle": "@SahilBloom",
-      "views": 1513394,
-      "url": "https://x.com/SahilBloom/status/2109315698103054428",
-      "note": "moisturizer product drop (Oct 11; skip for brand)"
+      "views": 59889,
+      "url": "https://x.com/SahilBloom/status/2109677307422261391",
+      "note": "entitlement erodes respect (Oct 12; tone thin for brand)"
     },
     {
-      "handle": "@JamesClear",
-      "views": 47706,
-      "url": "https://x.com/JamesClear/status/2109634975788322886",
-      "note": "Monday outgrown-habit question (Oct 12; replies still locked)"
+      "handle": "@tferriss",
+      "views": 22210,
+      "url": "https://x.com/tferriss/status/2110084546079424555",
+      "note": "science of dream engineering for PTSD (Oct 13; content-theme signal for Fierce Resources; read the source before using)"
+    },
+    {
+      "handle": "@SahilBloom",
+      "views": 1517516,
+      "url": "https://x.com/SahilBloom/status/2109315698103054428",
+      "note": "moisturizer product drop (Oct 11; skip for brand)"
     }
   ],
   "previous_day": {
-    "date": "2026-10-12",
-    "hits_count": 2,
-    "total_views": 46844,
-    "x_score": 46844,
-    "note": "Clear Monday outgrown-habit STAR + Bloom entitlement STAR"
+    "date": "2026-10-13",
+    "hits_count": 3,
+    "total_views": 109806,
+    "x_score": 109806,
+    "note": "Ferriss outsource-AI + Bloom rest-guilt + Clear craft STARs"
   },
   "x_posts": [
     {
-      "title": "Bloom pattern, softened: rest without earning it",
-      "text": "I used to treat free time like something I had to earn.\n\nFinish the list, then sit down. Clear the inbox, then rest. The list never ends, so the sitting never starts.\n\nI'm trying something smaller: put the pen down on purpose. Ten quiet minutes. No apology attached.",
-      "why": "Today's Bloom STAR (~42.2k) on guilt about free time and rest; open replies, cleanest brand fit"
+      "title": "Bloom pattern, softened: a life that looks like nothing",
+      "text": "Most of what helps me looks like nothing from the outside.\n\nA walk with nowhere to be. A page in ink before the laptop opens. A book older than I am.\n\nNone of it photographs well. I keep doing it anyway.",
+      "why": "Today's Bloom STAR (~47.4k) on living a life that looks confusing to others; echoed by outsiders on quiet life, long walks, old books"
     },
     {
-      "title": "Clear pattern, softened: work that feels like me",
-      "text": "The work that feels most like me is usually the slowest to show.\n\nA page in ink. A small product decision. A homepage that still says almost live.\n\nI'd rather build that way than force a version that looks busy and feels wrong.",
-      "why": "Today's Clear STAR (~19.2k) on craft as full expression of you; replies locked so this is her own post or a quote"
+      "title": "Ferriss pattern, softened: a list that fits the day",
+      "text": "My to-do list was never short on ideas. It was short on hours.\n\nWriting it by hand slows me down enough to see when it's turned into a wish list.\n\nIf it doesn't fit on the page, it waits for tomorrow.",
+      "why": "Today's Ferriss STAR (~34.8k, 468 saves) on ditching the to-do list; outsider to-do jokes (~58.7k lawyer post, ~5.1k) show the pain is shared"
     },
     {
-      "title": "Ferriss pattern, softened: what I won't hand off",
-      "text": "Some things I won't hand off.\n\nThe notebook. The pen. The first pass of a thought before I tidy it up.\n\nTools can help later. The first honest line still has to come from me.",
-      "why": "Today's Ferriss STAR (~48.4k) on outsourcing to AI; thin for brand as AI talk, so softens into keeping the first pass by hand"
+      "title": "Outsider pattern: don't know where to start",
+      "text": "When everything needs fixing, I freeze on where to start.\n\nSo I skip the most important thing and pick the smallest one I'll actually finish today.\n\nOnce one thing is done, the rest gets a little quieter.",
+      "why": "Several outsiders on being overwhelmed and not knowing where to start; this is the Calmly Crashing reader exactly"
     }
   ],
   "no_hits": [
     {
+      "handle": "@JamesClear",
+      "reason": "No same-day original as of ~11:00 AM MT (rechecked twice); Oct 13 craft post now ~92.8k, replies locked",
+      "max_views": 0
+    },
+    {
       "handle": "@naval",
-      "reason": "No posts in the Oct 11–13 scrape window",
+      "reason": "No posts in the Oct 11–14 scrape window",
       "max_views": 0
     },
     {
       "handle": "@thedankoe",
-      "reason": "No same-day original; Oct 10 6-month post (~420.8k) and Oct 11 addiction post (~190.0k) still climbing",
-      "max_views": 420815
+      "reason": "No same-day original; Oct 10 6-month post (~424.8k) and Oct 11 addiction post (~193.4k) still climbing",
+      "max_views": 0
     },
     {
       "handle": "@AustinKleon",
-      "reason": "Same-day baseball quote ~1.1k views; under threshold. Oct 12 TOMBSTONE now ~86.4k climbing",
-      "max_views": 1112
+      "reason": "No posts today yet; Oct 13 Reddit and baseball posts ~1.8k/~2.4k (under threshold); Oct 12 TOMBSTONE ~89.9k climbing",
+      "max_views": 0
     },
     {
       "handle": "@CalNewport",
-      "reason": "Scrape miss again: X username resolves to stub calnewport1 (95 followers, 0 tweets)",
+      "reason": "Scrape miss again: X username resolves to stub calnewport1 (94 followers, 0 tweets)",
       "max_views": 0
     },
     {
       "handle": "@Julian",
-      "reason": "No same-day original; Oct 10 unicorn-founders thread ~83.8k (startup tone; skip for brand)",
-      "max_views": 83799
+      "reason": "No posts in the Oct 11–14 window; Oct 10 unicorn-founders thread ~84.3k (startup tone; skip for brand)",
+      "max_views": 0
     }
   ]
 }
